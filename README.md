@@ -1,6 +1,9 @@
 ### Hi there 👋
-Meu[Linkedin](https://www.linkedin.com/in/gabrielmendesof/)
-
+<p align='center'>
+  
+  Meu[Linkedin](https://www.linkedin.com/in/gabrielmendesof/)
+  
+</p>
 <p align='center'>
   📫 How to reach me: <a href='mailto:contatoeugm@gmail.com'>contatoeugm@gmail.com</a>
 </p>

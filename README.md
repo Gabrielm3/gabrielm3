@@ -1,5 +1,9 @@
 ### Hi there 👋
 Meu[Linkedin](https://www.linkedin.com/in/gabrielmendesof/)
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:contatoeugm@gmail.com'>contatoeugm@gmail.com</a>
+</p>
 <!--
 **Gabrielm3/gabrielm3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

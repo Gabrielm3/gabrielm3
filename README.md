@@ -1,7 +1,3 @@
-<p align='center'>
-  
-  Meu[Linkedin](https://www.linkedin.com/in/gabrielmendesof/)
-  
 <h1 align='center'>
   Hi there 👋 I'm Gabriel 👨‍💻
 </h1>

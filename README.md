@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Full Stack Javascript | NodeJs | ReactJs 
+  Full Stack Javascript 
 </p>
 
 <p align='center'>

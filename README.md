@@ -13,7 +13,6 @@
   </a>&nbsp;&nbsp;
  
 </p>
-
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gabrielm3&show_icons=true&count_private=true&theme=dracula" width="350"></a>
 </p>

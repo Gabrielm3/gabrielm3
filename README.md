@@ -1,7 +1,6 @@
 <h1 align='center'>
   Hi there 👋 I'm Gabriel 👨‍💻
 </h1>
-
 <p align='center'>
   Full Stack Javascript 
 </p>

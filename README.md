@@ -15,7 +15,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gabrielm3&show_icons=true&count_private=true&theme=dracula" width="350"></a>
 </p>
 
-
 <p align='center'>
   💻 My workspace specs<br/><br/>
   <img src="https://img.shields.io/badge/ubuntu-%23E4405F.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />

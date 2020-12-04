@@ -18,8 +18,6 @@
   💻 My workspace specs<br/><br/>
   <img src="https://img.shields.io/badge/ubuntu-%23E4405F.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
  </p>
-
-
 <p align='center'>
   📫 How to reach me: <a href='mailto:contatoeugm@gmail.com'>contatoeugm@gmail.com</a>
 </p>

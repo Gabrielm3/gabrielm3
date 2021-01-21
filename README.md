@@ -2,7 +2,7 @@
   Hi there 👋 I'm Gabriel 👨‍💻
 </h1>
 <p align='center'>
-  Full Stack Javascript 
+  Front End
 </p>
 
 <p align='center'>

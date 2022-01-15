@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 <code> 👨‍💻 I'm a Front End Developer </code>
-<a target="_blank" href=""><img align="right" src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="340" height="310" alt="Gabrielm3" /> </a></h3>
+<a target="_blank" href="https://github.com/Gabrielm3"><img align="right" src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="340" height="310" alt="Gabrielm3" /> </a></h3>
 <p>-  My name is Gabriel Mendes, I'm 19 years old and I'm studying Information Systems. I'm a Web and Mobile developer, computer technician and technology lover. </p>
 <p>- :books: I’m currently learning: Redux, Hooks, NextJs, Jest, Context API and React Native </p>
 <p>- :heartbeat: My favorite technologies: React, Javascript and CSS  </p>

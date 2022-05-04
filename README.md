@@ -8,6 +8,7 @@
 <p>-  My name is Gabriel Mendes, I'm 19 years old and I'm studying Information Systems. I'm a Web and Mobile developer, computer technician and technology lover. </p>
 <p>- :books: I’m currently learning: Redux, Hooks, NextJs, Jest, Context API and React Native </p>
 <p>- :heartbeat: My favorite technologies: React, Javascript and CSS  </p>
+<p>- 📞 Contact contatoeugm@gmail.com</p>
 
 <br/>
 

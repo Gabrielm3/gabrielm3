@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="120px"/></a>
+<a href="#"><img width="100%"  src="https://i.imgur.com/iXuL1HG.png" height="200px"/></a>
 
 <h1 align="center">Hi<a href="https://portfolio-gabrielm3.vercel.app/"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></a>, I'm Gabriel Mendes.</h1>
 

@@ -1,7 +1,3 @@
-<a href="#"><img width="100%"  src="https://i.imgur.com/iXuL1HG.png" height="200px"/></a>
-
-<h1 align="center">Hi<a href="https://portfolio-gabrielm3.vercel.app/"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></a>, I'm Gabriel Mendes.</h1>
-
 ## 🙋‍♂️ About Me
 <code> 👨‍💻 I'm a Software Engineer</code>
 <a target="_blank" href="https://portfolio-gabrielm3.vercel.app"><img align="right" src="https://user-images.githubusercontent.com/43209743/127231797-ef1eb850-e737-4b45-9030-1559aacf4d3f.png" width="340" height="310" alt="Gabrielm3" /> </a></h3>
